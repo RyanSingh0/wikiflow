@@ -1,0 +1,12 @@
+# Local dev requirements. Mirrors what init_actions.sh installs on Dataproc.
+pyspark==3.5.0
+tensorflow==2.15.0
+keras==2.15.0
+elephas==4.0.0
+kafka-python==2.0.2
+sseclient-py==1.8.0
+requests==2.32.3
+plotly==5.22.0
+numpy==1.26.4
+google-cloud-bigquery==3.20.1
+google-cloud-storage==2.16.0
