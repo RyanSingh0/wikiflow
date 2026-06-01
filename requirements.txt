@@ -1,6 +1,6 @@
 # Local dev requirements. Mirrors what init_actions.sh installs on Dataproc.
 pyspark==3.5.0
-tensorflow==2.15.0
+tensorflow==2.16.1
 keras==2.15.0
 elephas==7.2.0
 kafka-python==2.0.2
